@@ -1,0 +1,6 @@
+chapter 9 synopsis  Jake Aubrey
+
+in this chapter you learn jquery UI. 
+IT IS AMAZING i really like all of the things you can do with 
+jquery ui i cant wait to really implement this in my website design! I
+ learned accordions and tabbed pannels as well as menus ! 

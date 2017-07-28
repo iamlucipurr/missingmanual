@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Creating and Using Arrays</title>
+<link href="css/site.css" rel="stylesheet">
+<script>
+var authors = ['Ernest Hemingway',
+			  'Charlotte Bronte',
+			  'Dante Alighieri',
+			   'Emily Dickinson'
+			  ];
+var preauth = 
+	['<p>The first author is<strong>',
+	 '<p>The second author is<strong>',
+	 '<p>The third author is<strong>',
+	 '<p>The fourth author is<strong>'
+	];
+var afterauth = ('</strong></p>');
+	
+</script>
+</head>
+<body>
+<div class="wrapper">
+  <header>
+    JAVASCRIPT <span class="amp">&amp;</span> jQUERY: THE&nbsp;MISSING&nbsp;MANUAL
+  </header>
+  <div class="content">
+    <div class="main">
+      <h1>Creating and Using Arrays</h1>
+      <script>
+		  document.write(preauth[0] + " ")
+		  document.write(authors[0] + '' + afterauth)
+		  
+		  document.write(preauth[1] + " ")
+		  document.write(authors[1] + '' + afterauth)
+		  
+		  document.write(preauth[2] + " ")
+		  document.write(authors[2] + '' + afterauth)
+		  
+		  document.write(preauth[3] + " ")
+		  document.write(authors[authors.length-1] + '' + afterauth)
+		 
+		  authors.unshift('Stan Lee');
+		  document.write('<p> I almost forgot <strong>');
+		  document.write(authors[0]);
+		  document.write(afterauth);
+		  
+	 </script>
+<!-- i kind of experimented with another array i hope thats ok im just really trying to grasp as much javascript as i can. as well as getting a better handle on funtions --> 
+     </div>
+  </div>
+  <footer>
+    <p>JavaScript &amp; jQuery: The Missing Manual, 3rd Edition, by <a href="http://sawmac.com/">David McFarland</a>. Published by <a href="http://oreilly.com/">O'Reilly Media, Inc</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

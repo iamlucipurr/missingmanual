@@ -1,0 +1,5 @@
+chapter 10 synopsis
+
+In this chapter you go back to forms and learn more things you can do with forms 
+going hand in hand with jquery UI. teaching styling along with generally 
+improving a lot of form elements. using jquery was a lot more fun then javascript.

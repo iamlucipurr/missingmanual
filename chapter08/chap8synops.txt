@@ -1,0 +1,6 @@
+chapter 8 synopsis - jake aubrey 
+
+this chapter is all about web forms and how to better your use of them. 
+I find jquery a lot more effective in terms of enhancing forms. 
+i really liked this chapter and i feel like my forms have greatly 
+improved because of it.

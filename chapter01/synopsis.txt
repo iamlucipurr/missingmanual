@@ -1,0 +1,22 @@
+in the first protion of the first chapter you learn about
+the alert function and what it does as well as learning 
+the syntax of the function itself.
+
+https://iamlucipurr.github.io/iamlucipurr-javabook1-ch1-01.io/
+
+
+in the second portion of the first chaper i learned 
+about using the document.write function to actually 
+write things to the web page. 
+
+https://iamlucipurr.github.io/javabook1-ch1-02.io/
+
+
+in the third portion of this chapter i learned about
+the .hide and .slideDown funtions using them to slide 
+down a header on the page.
+
+https://iamlucipurr.github.io/javabook1-ch1-03.io/
+
+
+Jake Aubrey 2/27/2017

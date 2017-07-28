@@ -1,0 +1,29 @@
+chapter 3 - Jake aubrey
+
+Exercize 1
+In part one the book gives you hands on learning about 
+using conditional statements and how they can change 
+what gets written to a page based off user prompts.
+
+link:
+https://iamlucipurr.github.io/javabook1-ch3-01.io/
+
+Part 2
+Part two walks you through funtions and the very 
+basics on how to use them. in the hands on assignment 
+it shows you how to use the to date string.
+
+link: 
+https://iamlucipurr.github.io/javabook1-ch3-02.io/
+
+part 3
+In the third exercise you get a walkthrough of how to 
+make a working quiz that also tells the use how many 
+questions they got correct going through the quiz.
+
+link: 
+https://iamlucipurr.github.io/javabook1-ch3-03.io/
+
+that basically concludes what this chapter went through.
+
+Jake aubrey 3/6/2017

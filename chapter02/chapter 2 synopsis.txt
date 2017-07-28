@@ -1,0 +1,27 @@
+in the fisrt assignment of chapter two we handled
+using variables and setting variables. it was easy
+and fun !
+
+link:
+https://iamlucipurr.github.io/javabook1-ch2-01.io/
+
+
+in the second chapter we handled prompts and how 
+we could use prompts to change our websites based 
+off of the users input.
+
+link: 
+https://iamlucipurr.github.io/javabook1-ch2-02.io/
+
+in the last assignment i learned about using 
+arrays and how the numbering of said arrays work.
+i went above and beyond in this chapter to try and
+ get a further grasp on arrays and how i could use
+ them for different things.
+
+link:
+https://iamlucipurr.github.io/javabook1-ch2-03.io/
+
+
+Jake aubrey
+3/1/2017

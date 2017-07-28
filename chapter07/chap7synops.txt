@@ -1,0 +1,9 @@
+chapter 7 synopsis - Jake aubrey
+
+in this chapter you learn about general stuff you can do with jquery. 
+
+this includes but is not limited to swapping images, 
+doing roll-overs, gallery effects, and controlling links.
+
+i found all of these things to be pretty usefull 
+and i would love to be able to implement them in my site. 

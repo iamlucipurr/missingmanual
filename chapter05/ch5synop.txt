@@ -1,0 +1,9 @@
+chapter 5 synopsis - Jake Aubrey
+
+in this chapter i went through the process of learning about events. 
+Using events in jquery are loads easier then just using java script 
+and i happen to be a major fan. i like how this book goes through a 
+lot of the events you can use in jquery and its in depth description 
+of all of them.
+
+

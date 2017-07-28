@@ -1,0 +1,5 @@
+chapter 6 synopsis - Jake aubrey
+
+in this chapter you learn about jquery effects and how to use them such 
+as login sliders, animations, and transitions. the book gives a hands on touch 
+to learning these things and i felt like i have a pretty decent grasp on it. ]
